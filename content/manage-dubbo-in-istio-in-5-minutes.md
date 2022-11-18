@@ -15,3 +15,7 @@ title = "Hugo-Webslides"
 <!--: .wrap .size-70 ..aligncenter bgimage=images/manage-dubbo-in-istio-in-5-minutes/6.png -->
 ---
 <!--: .wrap .size-70 ..aligncenter bgimage=images/manage-dubbo-in-istio-in-5-minutes/7.png -->
+---
+<!--: .wrap .size-70 ..aligncenter bgimage=images/manage-dubbo-in-istio-in-5-minutes/8.png -->
+---
+<!--: .wrap .size-70 ..aligncenter bgimage=images/manage-dubbo-in-istio-in-5-minutes/9.png -->
