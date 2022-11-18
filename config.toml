@@ -1,0 +1,32 @@
+baseURL="https://www.zhaohuabing.com/web-slides/"
+languageCode = "en-us"
+title = "Presentations"
+disableKinds = ["sitemap", "RSS"]
+theme = "hugo-webslides"
+tags = ["slides","zhaohuabing"]
+
+[params]
+  author = "Huabing Zhao"
+  homepage = "zhaohuabing.com"
+
+
+[params.webslides]
+  banner = true
+  slideshow = true
+  vertical = false
+  autoslide = 5000
+  changeOnClick = true
+  disableLoop = false
+  minWheelDelta = 40
+  disableNavigateOnScroll = false
+  scrollWait = 450
+  slideOffset = 50
+  hideIndex = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+    [markup.goldmark.renderer]
+      unsafe = true
