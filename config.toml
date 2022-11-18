@@ -11,10 +11,10 @@ tags = ["slides","zhaohuabing"]
 
 
 [params.webslides]
-  banner = true
+  banner = false
   slideshow = true
   vertical = false
-  autoslide = 5000
+  autoslide = false
   changeOnClick = true
   disableLoop = false
   minWheelDelta = 40
