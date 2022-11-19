@@ -2,6 +2,8 @@
 title = "xHugo-Webslides"
 +++
 
+<!--: .wrap .size-70 ..aligncenter bgimage=0.png -->
+---
 <!--: .wrap .size-70 ..aligncenter bgimage=1.png -->
 ---
 <!--: .wrap .size-70 ..aligncenter bgimage=2.png -->
